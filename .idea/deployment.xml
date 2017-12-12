@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="customshoestylesbylouie-dev.focuseddevelopment.com">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cssbl-dev.focuseddevelopment.com" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="customshoestylesbylouie-dev.focuseddevelopment.com">
+      <paths name="cssbl-dev.focuseddevelopment.com">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

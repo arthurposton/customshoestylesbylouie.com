@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f8cc5cd0-4abd-4712-8f61-b0218f47a5b5" name="customshoestylesbylouie-dev.focuseddevelopment.com" url="http://customshoestylesbylouie-dev.focuseddevelopment.com">
-        <fileTransfer host="customshoestylesbylouie-dev.focuseddevelopment.com" port="21">
+      <webServer id="624be745-4c3f-4b93-ac2e-b8a694f88f29" name="cssbl-dev.focuseddevelopment.com" url="http://cssbl-dev.focuseddevelopment.com">
+        <fileTransfer host="cssbl-dev.focuseddevelopment.com" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
